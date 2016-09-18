@@ -3,7 +3,7 @@ body {
 	background: #384047;
 }
 h1 {
-	color: #fff;
+	color: #e6ccff;
 	text-align: center
 }
 
@@ -18,7 +18,7 @@ ul {
 ul li {
 	display: inline-block;
 	padding: 8px;
-	background:white;
+	background:#e6ccff;
 	margin:10px;
 }
 ul li img {
@@ -40,23 +40,9 @@ a {
 }
 
 #overlay img {
- margin-top: 10%; 
+ margin-top: 10%;
 }
 
 #overlay p {
- color:white; 
+ color:#e6ccff;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
